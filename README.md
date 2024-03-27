@@ -1,5 +1,5 @@
 # SERGE: A Serious Game For Risk Management
-<h3 align = "center"> Welcome to the Metaverse Classroom! </h3>
+<h3 align = "center"> </h3>
 <p align = "center"> An open-source project developed with Unity3D and Photon Unity Networking to reenact the serious game SERGE in a tridimensional virtual environment for academic and educational purposes. </p>
 <p align = "center">
   <!-- <img src = "blobs/presentation_pic.jpg?raw=true" width = "800" heigth = "600"> -->
